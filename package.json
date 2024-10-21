@@ -1,10 +1,16 @@
 {
   "name": "temen-ngoding-kamu",
   "displayName": "Temen Ngoding Kamu",
+  "publisher": "gozi-tnk",
   "description": "Chattingan sama AI satset cuma dari VSCode!",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "images/icons.webp",
   "engines": {
-    "vscode": "^1.93.1"
+    "vscode": "^1.94.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goziyyy/temen-ngoding-kamu.git"
   },
   "categories": [
     "Other"

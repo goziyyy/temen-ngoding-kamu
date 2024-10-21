@@ -1,4 +1,4 @@
-# temen-ngoding-kamu README
+# Pusing sama projectmu? curhat ke AI ini cobadeh
 
 ## Features
 

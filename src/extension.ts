@@ -43,8 +43,8 @@
             chatHistory.push(userMessageHtml);
             updateWebviewContent();
         
-            const model = 'gpt-4';
-            const apiUrl = 'https://itzpire.com/ai/gpt';
+            const model = 'yeoji-3';
+            const apiUrl = 'https://eanyariapiyeh.com';
         
             try {
                 panel?.webview.postMessage({ command: 'showTypingIndicator' });
